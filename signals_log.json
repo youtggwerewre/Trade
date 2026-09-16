@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "timeframe": "15min",
+    "horizon_label": null,
+    "direction": "BUY",
+    "entry": 4323.4,
+    "sl": 4272.43,
+    "tp1": 4425.35,
+    "tp2": 4476.32,
+    "opened_at": "2026-09-16T05:15:23.279022+00:00",
+    "tp1_hit": false,
+    "status": "OPEN",
+    "closed_at": null
+  },
+  {
+    "id": 2,
+    "timeframe": "5min",
+    "horizon_label": null,
+    "direction": "BUY",
+    "entry": 4323.4,
+    "sl": 4279.35,
+    "tp1": 4411.5,
+    "tp2": 4455.55,
+    "opened_at": "2026-09-16T05:15:23.774326+00:00",
+    "tp1_hit": false,
+    "status": "SL",
+    "closed_at": "2026-09-16T05:19:36.242368+00:00"
+  },
+  {
+    "id": 3,
+    "timeframe": "5min",
+    "horizon_label": "\u26a1 Next 15 min",
+    "direction": "BUY",
+    "entry": 4323.4,
+    "sl": 4279.35,
+    "tp1": 4411.5,
+    "tp2": 4455.55,
+    "opened_at": "2026-09-16T05:16:06.674741+00:00",
+    "tp1_hit": false,
+    "status": "SL",
+    "closed_at": "2026-09-16T05:19:36.247476+00:00"
+  },
+  {
+    "id": 4,
+    "timeframe": "5min",
+    "horizon_label": "\u26a1 Next 15 min",
+    "direction": "BUY",
+    "entry": 4322.23,
+    "sl": 4279.43,
+    "tp1": 4407.84,
+    "tp2": 4450.65,
+    "opened_at": "2026-09-16T05:17:17.067284+00:00",
+    "tp1_hit": false,
+    "status": "SL",
+    "closed_at": "2026-09-16T05:19:36.254357+00:00"
+  }
+]

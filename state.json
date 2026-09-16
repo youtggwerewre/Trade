@@ -1,0 +1,21 @@
+{
+  "active_timeframes": [
+    "15min",
+    "5min"
+  ],
+  "interval_minutes": 5,
+  "balance": 10.0,
+  "risk_percent": 1.0,
+  "contract_size": 100,
+  "last_signal": {
+    "15min": {
+      "direction": "BUY",
+      "ts": 1789535723.2801926
+    },
+    "5min": {
+      "direction": "BUY",
+      "ts": 1789535723.7762249
+    }
+  },
+  "circuit_breaker_until": null
+}
