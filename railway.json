@@ -4,6 +4,6 @@
     "builder": "RAILPACK"
   },
   "deploy": {
-    "startCommand": "python your_main_file.py"
+    "startCommand": "python run_all.py"
   }
 }
